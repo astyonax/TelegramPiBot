@@ -28,6 +28,6 @@ This program depends on `python-telegram-bot`
 ## Installation
 The installation is a three-steps process:
 * Register the bot on the BotFather (see telegram docs)
-* Write the token in the config directory $HOME/.config/G3POBOT/token and your telegram id
+* Write the token in the config directory $HOME/.config/G3POBOT/token and your telegram id in the code 
 * modify /etc/rc.local of your server to execute the bot (eg. as: `sudo python /fullpath-to-script.py`)
 
