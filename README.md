@@ -1,7 +1,7 @@
 # TelegramPiBot
-A flexible and simple Telegram Bot to control an acces point with (hostapd)[https://wireless.wiki.kernel.org/en/users/documentation/hostapd] on Raspberry Pi
+A flexible and simple Telegram Bot to control an acces point with [hostapd](https://wireless.wiki.kernel.org/en/users/documentation/hostapd) on Raspberry Pi
 
-(Telegram Bots)[https://core.telegram.org/bots] are programs that run on your server/AP/.., and behave like 
+[Telegram Bots](https://core.telegram.org/bots) are programs that run on your server/AP/.., and behave like 
 almost regular Telegram users. In particular, they can receive, process and reply to text messages.
 In telegram, text messages beginning with a '/' are treated as *commands*.
 
