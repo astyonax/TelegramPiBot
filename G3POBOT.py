@@ -7,6 +7,9 @@ import subprocess
 import cPickle
 TOIM="to implement"
 
+# safely test
+#os.system= lambda x:1
+
 class Commands(object):
     def __init__(self,bot,cfgfile):
         self.registered_commands={
